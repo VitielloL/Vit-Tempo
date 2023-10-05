@@ -25,10 +25,12 @@ body{
     justify-content: center;
     /* color: #fff; */
     color: #00fa9a;
-    font-family: 'Arimo', sans-serif;
-    font-family: 'Dancing Script', cursive;
-    text-transform: uppercase;
+    font-family: 'Indie Flower', cursive;
+    /* font-family: 'Arimo', sans-serif;
+    font-family: 'Dancing Script', cursive; */
+    /* text-transform: uppercase; */
     margin-bottom: 20px;
+    font-size: 26px;
 }
 
 .container{
