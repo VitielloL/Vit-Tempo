@@ -5,6 +5,7 @@ const climaDetalhes = document.querySelector('.clima-detalhes');
 const error404 = document.querySelector('.not-found');
 
 search.addEventListener('click', () => {
+    //https://openweathermap.org/guide
     const APIKey = '53a47abfeaad8555655295ed351c3dd7';
     const city = document.querySelector('.search input').value;
 
