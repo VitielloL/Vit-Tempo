@@ -1,4 +1,4 @@
 # Vit-Tempo
-Aplicativo meteorológico em Javascript / HTML / CSS
+Aplicação meteorológica em Javascript / HTML / CSS .
 
 Hospedagem: https://vit-tempo.vercel.app/
